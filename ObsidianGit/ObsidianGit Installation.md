@@ -31,13 +31,14 @@ Obsidian.md is widely used by students, researchers, writers, and knowledge work
 ## Vaults
 In Obsidian, a "vault" refers to the directory or folder where your notes are stored. It contains all the Markdown files that make up your collection of notes. When you create or open a vault in Obsidian, you are essentially working within that specific directory, and Obsidian treats all the Markdown files within that directory as part of your knowledge base.
 
-To create a new vault or open an existing one in Obsidian, you typically choose a directory on your computer where you want to store your notes. Once a vault is created or opened, you can start creating and organizing your notes within that specific directory. The concept of vaults aligns with Obsidian's philosophy of keeping your notes in plain text files and providing users with control over their data.
+To create a new vault or open an existing one in Obsidian, you typically choose a directory on your computer where you want to store your notes. Once a vault is created or opened, you can start creating and organizing your notes within that specific directory. 
 
 - After installing Obsidian, you are given the option to
 	- **Create new vault**
-		- Creates a new vault.
+		- Creates a new vault. 
 	- **Open folder as vault**
 		- If you have existing vaults or compatible notes.
 	- **Open vault from Obsidian Sync**
 		- If you have an existing Obsidian Sync Account you can use this option to connect and sync your notes.
-- 
+
+<span style="color: green;">Create a N</span>
