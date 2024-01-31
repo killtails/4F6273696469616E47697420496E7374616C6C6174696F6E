@@ -28,4 +28,5 @@ Key features of Obsidian.md include:
 Obsidian.md is widely used by students, researchers, writers, and knowledge workers for personal and professional note-taking and knowledge management. It has gained popularity for its focus on simplicity, flexibility, and the ability to foster creative thinking by encouraging non-linear connections between ideas.
 ## Installing Obsidian
 1. Download [Obsidian](https://obsidian.md/download) and run the installer.
-2. 
+## Creating a Vault
+- After installing Obsidian, you are given the option to ****
