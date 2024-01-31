@@ -44,7 +44,7 @@ To create a new vault or open an existing one in Obsidian, you typically choose 
 ## Creating Notes
 After creating a vault you can now start creating notes. Notes are notes, you can write important stuff there.
 
-![[5.png]]
-![Alt Text](Screenshots\5)
+At the top right of the application you should see a vertical column and a horizontal row of icons. The first icon of the 
+![[5.png|400]]
 
 
