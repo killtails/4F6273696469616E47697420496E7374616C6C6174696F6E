@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0346e675c5ab012d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,6 +160,9 @@
   },
   "active": "52ca1cc82d4203be",
   "lastOpenFiles": [
+    "Untitled.md",
+    "ObsidianGit/Screenshots/6.png",
+    "ObsidianGit/ObsidianGit Installation.md",
     "ObsidianGit/Screenshots/vlcsnap-00003.png",
     "ObsidianGit/Screenshots/vlcsnap-00002.png",
     "ObsidianGit/Screenshots/vlcsnap-00001.png",
@@ -155,13 +170,10 @@
     "ObsidianGit/Screenshots/5.png",
     "ObsidianGit/Screenshots",
     "Screenshots/5.md",
-    "ObsidianGit/ObsidianGit Installation.md",
     "Screenshots/5.png",
     "Screenshots/5.png.png",
     "Screenshots/New Note Highlight.png",
     "Screenshots/New Note.png",
-    "Screenshots/Screenshot 2024-01-31 172708.png",
-    "Screenshots/vlcsnap-00003.png",
     "Screenshots",
     "New folder",
     "Welcome.md",
