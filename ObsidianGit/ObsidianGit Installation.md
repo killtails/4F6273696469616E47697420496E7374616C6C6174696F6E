@@ -42,6 +42,8 @@ To create a new vault or open an existing one in Obsidian, you typically choose 
 		- If you have an existing Obsidian Sync Account you can use this option to connect and sync your notes.
 ## <span style="color: green;">Create a new vault in obsidian.</span>
 ## Creating Notes
+After creating a vault you can now start creating notes. Notes are notes, you can write important stuff there.
 
+At the top left corner of the application
 
 
