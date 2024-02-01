@@ -49,4 +49,57 @@ After creating a vault you can now start creating notes. Notes are notes, you ca
 2. A new "Untitled" note should open. Give it a name, you can always change it later. ![[6.png]]
 
 
-#
+# What is GitHub
+GitHub is a web-based platform that provides hosting for software development and version control using Git. It offers a range of collaborative features for teams and individuals working on software projects. GitHub is widely used for open-source development but is also utilized by private teams for proprietary software projects. Here are some key aspects of GitHub:
+
+1. **Version Control:**
+   - GitHub uses Git, a distributed version control system. Version control helps teams manage and track changes to their codebase, allowing multiple developers to work on a project simultaneously.
+
+2. **Repository Hosting:**
+   - A repository, or repo, is a container that holds a project and all its files, including the revision history. GitHub provides a platform for hosting Git repositories, making it easy for developers to collaborate and contribute.
+
+3. **Collaboration:**
+   - GitHub facilitates collaboration among team members. Developers can work on their individual branches and propose changes to the main codebase through pull requests. Issues, discussions, and project boards are also features that enhance collaboration.
+
+4. **Pull Requests:**
+   - Developers use pull requests to propose changes to the main codebase. This includes new features, bug fixes, or any other modifications. Pull requests are reviewed by other team members before merging.
+
+5. **Issue Tracking:**
+   - GitHub provides an issue tracking system to manage tasks, enhancements, and bugs for software projects. Issues can be assigned, labeled, and linked to code changes, making it easier to coordinate work.
+
+6. **GitHub Actions:**
+   - GitHub Actions is a feature that enables automation of workflows within the GitHub platform. It allows developers to define custom build and deployment processes, automated testing, and more.
+
+7. **Wikis and Pages:**
+   - GitHub provides built-in wikis and GitHub Pages for documentation. Teams can create and maintain documentation directly within their repositories.
+
+8. **Social Coding:**
+   - GitHub has a strong social aspect, allowing users to follow projects, developers, and organizations. Users can also star repositories to show appreciation or interest in a project.
+
+9. **Open Source Contributions:**
+   - GitHub is a hub for open-source development, and many open-source projects are hosted on the platform. Developers can contribute to existing projects by submitting pull requests.
+
+10. **Security Features:**
+    - GitHub provides security features such as vulnerability alerts, code scanning, and Dependabot to help developers identify and address potential security issues in their code.
+
+GitHub is widely used in the software development community, and its popularity stems from its user-friendly interface, powerful collaboration features, and its role as a central hub for open-source projects.
+# What is GitHub Desktop
+GitHub Desktop is a graphical user interface (GUI) client for Git that simplifies the process of using Git and GitHub. It is designed to provide a more user-friendly experience, especially for those who may be less comfortable with command-line interfaces. GitHub Desktop is available for both Windows and macOS, and it allows users to interact with Git and GitHub repositories through a visual interface.
+
+Key features of GitHub Desktop include:
+
+1. **Graphical Interface:** GitHub Desktop provides a visual representation of your Git repository's history, branches, and changes. This graphical representation makes it easier for users to understand and manage their version control activities.
+
+2. **Easy Repository Management:** Users can clone repositories from GitHub or other remote locations, create new repositories, and manage existing repositories directly from the GitHub Desktop interface.
+
+3. **Branching and Merging:** GitHub Desktop simplifies the process of creating and managing branches. Users can easily create new branches, switch between branches, and merge changes visually.
+
+4. **Committing Changes:** Users can stage and commit changes to their local repository directly from the GitHub Desktop interface. The application provides a clear view of the changes made to files and allows users to write commit messages.
+
+5. **Syncing with GitHub:** GitHub Desktop enables users to push changes to GitHub or pull changes from GitHub with a simple click. This makes it easy to synchronize local changes with the remote repository.
+
+6. **Collaboration:** Users can view and participate in discussions (issues and pull requests) directly within GitHub Desktop. This integration helps developers stay connected with the collaborative aspects of GitHub.
+
+7. **Cross-Platform Support:** GitHub Desktop is available for both Windows and macOS, providing a consistent experience across different operating systems.
+
+While GitHub Desktop is a powerful tool for many users, particularly those who prefer a GUI over the command line, it's worth noting that more advanced Git operations may still require the use of the command-line interface. GitHub Desktop is often recommended for beginners and those who are just getting started with version control and collaboration using Git and GitHub.
