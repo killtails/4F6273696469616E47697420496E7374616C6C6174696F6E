@@ -16,8 +16,9 @@ tags:
 	1. Sign in to GitHub
 	2. Authorize GitHub Desktop
 	3. Configure Git (Use default options)
-	4. Create New Repository
+	4. Add an existing Repository from your hard drive
 		1. Change Local Path to your Obsidian Vault
+		2. Create Repository
 	5. Publish Repository to GitHub (Keep Code public or private)
 	6. On browser check your repositories on GitHub to make sure they've been published
 	7. Stop here if you want to manually push your changes. To automate this continue on.
