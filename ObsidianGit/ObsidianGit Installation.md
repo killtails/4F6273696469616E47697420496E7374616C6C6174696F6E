@@ -9,8 +9,12 @@ tags:
 [GIT SCM CLI](https://git-scm.com/downloads)
 # Instructions
 1. Download and Install [Obsidian](https://obsidian.md/download)
-2. Download and Install [GitHub Desktop](https://desktop.github.com)
-3. Download and Install [GIT SCM CLI](https://git-scm.com/downloads)
+	1. Make a new Vault
+	2. Make a new note
+2. Make an account on [GitHub](https://github.com)
+3. Download and Install [GitHub Desktop](https://desktop.github.com)
+	1. Sign in to GitHub
+4. Download and Install [GIT SCM CLI](https://git-scm.com/downloads)
 # What is Obsidian?
 Obsidian.md is a popular note-taking and knowledge management application. It is designed to help users organize and connect their thoughts, ideas, and notes in a flexible and interconnected manner. Obsidian is often referred to as a "second brain" tool due to its focus on building a knowledge graph of interconnected notes.
 
