@@ -71,14 +71,6 @@ Key features of Git include:
 8. **Open Source and Extensible:** Git is an open-source project, and its source code is freely available for inspection and modification. Additionally, Git is extensible, allowing users to customize their workflows and integrate with other tools.
 
 Git is commonly used in conjunction with hosting platforms like GitHub, GitLab, and Bitbucket, which provide centralized repositories, collaboration features, and additional tools for project management. The combination of Git and these hosting platforms has become a standard practice in modern software development.
-# What is Git-SCM
-"Git SCM" stands for "Git Source Code Management" or "Git Software Configuration Management." It is a term that is often used to refer to the Git software and tools that enable source code management using the Git version control system.
-
-"Git" is the version control system, while "Git SCM" often refers to the broader concept of source code management using Git, including the tools and practices associated with it.
-
-When people mention "Git SCM," they are typically referring to the broader concept of source code management with Git, including the tools, commands, and practices associated with using Git for version control. The official website for the Git version control system, where you can find documentation, download the Git software, and access other resources, is often referred to as "Git SCM" or simply "Git."
-
-In practice, when developers or users say they are installing or using "Git SCM," they are likely talking about obtaining the Git software for their system to start using Git for version control. The official website for Git, where you can download the Git software, is "https://git-scm.com/." From this site, you can access documentation, guides, and other materials to help you get started with Git for source code management.
 
 # What is GitHub
 GitHub is a web-based platform that provides hosting for software development and version control using Git. It offers a range of collaborative features for teams and individuals working on software projects. GitHub is widely used for open-source development but is also utilized by private teams for proprietary software projects. Here are some key aspects of GitHub:
@@ -135,3 +127,13 @@ Key features of GitHub Desktop include:
 7. **Cross-Platform Support:** GitHub Desktop is available for both Windows and macOS, providing a consistent experience across different operating systems.
 
 While GitHub Desktop is a powerful tool for many users, particularly those who prefer a GUI over the command line, it's worth noting that more advanced Git operations may still require the use of the command-line interface. GitHub Desktop is often recommended for beginners and those who are just getting started with version control and collaboration using Git and GitHub.
+# What is Git-SCM
+Download: [GIT SCM CLI](https://git-scm.com/downloads)
+
+"Git SCM" stands for "Git Source Code Management" or "Git Software Configuration Management." It is a term that is often used to refer to the Git software and tools that enable source code management using the Git version control system.
+
+"Git" is the version control system, while "Git SCM" often refers to the broader concept of source code management using Git, including the tools and practices associated with it.
+
+When people mention "Git SCM," they are typically referring to the broader concept of source code management with Git, including the tools, commands, and practices associated with using Git for version control. The official website for the Git version control system, where you can find documentation, download the Git software, and access other resources, is often referred to as "Git SCM" or simply "Git."
+
+In practice, when developers or users say they are installing or using "Git SCM," they are likely talking about obtaining the Git software for their system to start using Git for version control. The official website for Git, where you can download the Git software, is "https://git-scm.com/." From this site, you can access documentation, guides, and other materials to help you get started with Git for source code management.
