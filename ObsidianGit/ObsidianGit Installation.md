@@ -9,10 +9,11 @@ tags:
 [GIT SCM CLI](https://git-scm.com/downloads)
 # Instructions
 1. Download and Install [Obsidian](https://obsidian.md/download)
+
 	1. Make a new Vault
 	2. Make a new note
-2. Make an account on [GitHub](https://github.com)
-3. Download and Install [GitHub Desktop](https://desktop.github.com)
+3. Make an account on [GitHub](https://github.com)
+4. Download and Install [GitHub Desktop](https://desktop.github.com)
 	1. Sign in to GitHub
 	2. Authorize GitHub Desktop
 	3. Configure Git (Use default options)
@@ -22,9 +23,9 @@ tags:
 	5. Publish Repository to GitHub (Keep Code public or private)
 	6. On browser check your repositories on GitHub to make sure they've been published
 	7. Stop here if you want to manually push your changes. To automate this continue on.
-4. Download and Install [GIT SCM CLI](https://git-scm.com/downloads)
+5. Download and Install [GIT SCM CLI](https://git-scm.com/downloads)
 	1. Authorize Git Credential Manager
-5. Open Obsidian and Enable Community Plugins
+6. Open Obsidian and Enable Community Plugins
 	1. Search for Git and Install (by Denis Olehov aka Vinzent03)
 	2. Enable the plugin
 	3. Set auto push and pull time
