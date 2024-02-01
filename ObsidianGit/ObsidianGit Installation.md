@@ -21,12 +21,12 @@ tags:
 	5. Publish Repository to GitHub (Keep Code public or private)
 	6. On browser check your repositories on GitHub to make sure they've been published
 	7. Stop here if you want to manually push your changes. To automate this continue on.
-4. Open Obsidian and Enable Community Plugins
+4. Download and Install [GIT SCM CLI](https://git-scm.com/downloads)
+	1. Authorize Git Credential Manager
+5. Open Obsidian and Enable Community Plugins
 	1. Search for Git and Install (by Denis Olehov aka Vinzent03)
 	2. Enable the plugin
 	3. Set auto push and pull time
-	4. Sometimes there is an issue getting ObsidianGit to work if this happens Download and Install [GIT SCM CLI](https://git-scm.com/downloads) and restart Obsidian
-
 # What is Obsidian?
 Obsidian.md is a popular note-taking and knowledge management application. It is designed to help users organize and connect their thoughts, ideas, and notes in a flexible and interconnected manner. Obsidian is often referred to as a "second brain" tool due to its focus on building a knowledge graph of interconnected notes.
 
