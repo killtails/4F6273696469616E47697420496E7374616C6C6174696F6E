@@ -14,6 +14,10 @@ tags:
 2. Make an account on [GitHub](https://github.com)
 3. Download and Install [GitHub Desktop](https://desktop.github.com)
 	1. Sign in to GitHub
+	2. Authorize GitHub Desktop
+	3. Configure Git (Use default options)
+	4. Create New Repository
+		1. Change Local Path to your Obsidian Vault
 4. Download and Install [GIT SCM CLI](https://git-scm.com/downloads)
 # What is Obsidian?
 Obsidian.md is a popular note-taking and knowledge management application. It is designed to help users organize and connect their thoughts, ideas, and notes in a flexible and interconnected manner. Obsidian is often referred to as a "second brain" tool due to its focus on building a knowledge graph of interconnected notes.
