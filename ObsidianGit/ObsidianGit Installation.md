@@ -49,6 +49,34 @@ After creating a vault you can now start creating notes. Notes are notes, you ca
 2. A new "Untitled" note should open. Give it a name, you can always change it later. ![[6.png]]
 
 
+# What is Git
+Git is a distributed version control system (VCS) designed to track changes in source code during software development. It allows multiple developers to collaborate on a project and manage their codebase efficiently. Git was created by Linus Torvalds in 2005 and has become the de facto standard for version control in the software development industry.
+
+Key features of Git include:
+
+1. **Distributed Version Control:** Git is a distributed version control system, meaning that each developer has a complete copy of the entire repository on their local machine. This decentralization allows developers to work independently and without constant access to a central server.
+
+2. **Branching and Merging:** Git makes branching and merging easy. Developers can create branches to work on specific features or fixes without affecting the main codebase. Once the changes are complete, branches can be merged back into the main branch.
+
+3. **History Tracking:** Git maintains a detailed history of changes made to the codebase. Each commit is recorded with information about the author, timestamp, and a unique identifier. This history is valuable for understanding how the code has evolved over time.
+
+4. **Staging Area:** Git uses a staging area (also known as the "index") to allow developers to selectively choose which changes to include in the next commit. This provides flexibility and control over the commit process.
+
+5. **Fast and Efficient:** Git is designed to be fast and efficient, even with large codebases. This is achieved through techniques such as delta compression and storing data as snapshots.
+
+6. **Integrity and Security:** Git ensures the integrity of the codebase by using cryptographic hash functions to generate unique identifiers (SHA-1 hashes) for each commit. This helps prevent data corruption and ensures the security of the versioned data.
+
+7. **Collaboration:** Git facilitates collaboration among developers by providing mechanisms for sharing changes between repositories. Developers can push and pull changes from remote repositories, making it easy to work on projects with distributed teams.
+
+8. **Open Source and Extensible:** Git is an open-source project, and its source code is freely available for inspection and modification. Additionally, Git is extensible, allowing users to customize their workflows and integrate with other tools.
+
+Git is commonly used in conjunction with hosting platforms like GitHub, GitLab, and Bitbucket, which provide centralized repositories, collaboration features, and additional tools for project management. The combination of Git and these hosting platforms has become a standard practice in modern software development.
+# What is Git-SCM
+"Git SCM" stands for "Git Source Code Management" or "Git Software Configuration Management." It is a term that is often used to refer to the Git software and tools that enable source code management using the Git version control system.
+
+When people mention "Git SCM," they are typically referring to the broader concept of source code management with Git, including the tools, commands, and practices associated with using Git for version control. The official website for the Git version control system, where you can find documentation, download the Git software, and access other resources, is often referred to as "Git SCM" or simply "Git."
+
+In practice, when developers or users say they are installing or using "Git SCM," they are likely talking about obtaining the Git software for their system to start using Git for version control. The official website for Git, where you can download the Git software, is "https://git-scm.com/." From this site, you can access documentation, guides, and other materials to help you get started with Git for source code management.
 # What is GitHub
 GitHub is a web-based platform that provides hosting for software development and version control using Git. It offers a range of collaborative features for teams and individuals working on software projects. GitHub is widely used for open-source development but is also utilized by private teams for proprietary software projects. Here are some key aspects of GitHub:
 
