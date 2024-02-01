@@ -18,6 +18,9 @@ tags:
 	3. Configure Git (Use default options)
 	4. Create New Repository
 		1. Change Local Path to your Obsidian Vault
+	5. Publish Repository to GitHub (Keep Code public or private)
+	6. On browser check your repositories on GitHub to make sure they've been published
+	7. Stop here if you want to manually push your changes.
 4. Download and Install [GIT SCM CLI](https://git-scm.com/downloads)
 # What is Obsidian?
 Obsidian.md is a popular note-taking and knowledge management application. It is designed to help users organize and connect their thoughts, ideas, and notes in a flexible and interconnected manner. Obsidian is often referred to as a "second brain" tool due to its focus on building a knowledge graph of interconnected notes.
