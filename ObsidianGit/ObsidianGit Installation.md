@@ -46,5 +46,7 @@ After creating a vault you can now start creating notes. Notes are notes, you ca
 
 1. To create a new note look for the "pen and paper" icon at the top left of the application and click on it.
 ![[5.png|400]]
+2. A new "Untitled" note should open. Give it a name, you can always change it later. ![[6.png]]
 
-2. A new "Untitled" note should open ![[6.png]]
+
+#
