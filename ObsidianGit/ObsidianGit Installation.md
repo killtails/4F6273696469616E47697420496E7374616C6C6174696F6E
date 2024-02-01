@@ -7,7 +7,7 @@ tags:
 [Obsidian](https://obsidian.md/download)
 [GitHub Desktop](https://desktop.github.com)
 [GIT SCM CLI](https://git-scm.com/downloads)
-
+# Instructions
 # What is Obsidian?
 Obsidian.md is a popular note-taking and knowledge management application. It is designed to help users organize and connect their thoughts, ideas, and notes in a flexible and interconnected manner. Obsidian is often referred to as a "second brain" tool due to its focus on building a knowledge graph of interconnected notes.
 
