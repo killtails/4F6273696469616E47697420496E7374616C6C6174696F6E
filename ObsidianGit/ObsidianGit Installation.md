@@ -6,7 +6,7 @@ tags:
 # Downloads
 [Obsidian](https://obsidian.md/download)
 [GitHub Desktop](https://desktop.github.com)
-[GIT CLI](https://git-scm.com/downloads)
+[GIT SCM CLI](https://git-scm.com/downloads)
 
 # What is Obsidian?
 Obsidian.md is a popular note-taking and knowledge management application. It is designed to help users organize and connect their thoughts, ideas, and notes in a flexible and interconnected manner. Obsidian is often referred to as a "second brain" tool due to its focus on building a knowledge graph of interconnected notes.
@@ -74,9 +74,12 @@ Git is commonly used in conjunction with hosting platforms like GitHub, GitLab, 
 # What is Git-SCM
 "Git SCM" stands for "Git Source Code Management" or "Git Software Configuration Management." It is a term that is often used to refer to the Git software and tools that enable source code management using the Git version control system.
 
+"Git" is the version control system, while "Git SCM" often refers to the broader concept of source code management using Git, including the tools and practices associated with it.
+
 When people mention "Git SCM," they are typically referring to the broader concept of source code management with Git, including the tools, commands, and practices associated with using Git for version control. The official website for the Git version control system, where you can find documentation, download the Git software, and access other resources, is often referred to as "Git SCM" or simply "Git."
 
 In practice, when developers or users say they are installing or using "Git SCM," they are likely talking about obtaining the Git software for their system to start using Git for version control. The official website for Git, where you can download the Git software, is "https://git-scm.com/." From this site, you can access documentation, guides, and other materials to help you get started with Git for source code management.
+
 # What is GitHub
 GitHub is a web-based platform that provides hosting for software development and version control using Git. It offers a range of collaborative features for teams and individuals working on software projects. GitHub is widely used for open-source development but is also utilized by private teams for proprietary software projects. Here are some key aspects of GitHub:
 
@@ -111,7 +114,8 @@ GitHub is a web-based platform that provides hosting for software development an
     - GitHub provides security features such as vulnerability alerts, code scanning, and Dependabot to help developers identify and address potential security issues in their code.
 
 GitHub is widely used in the software development community, and its popularity stems from its user-friendly interface, powerful collaboration features, and its role as a central hub for open-source projects.
-# What is GitHub Desktop
+## What is GitHub Desktop
+Download: [GitHub Desktop](https://desktop.github.com)
 GitHub Desktop is a graphical user interface (GUI) client for Git that simplifies the process of using Git and GitHub. It is designed to provide a more user-friendly experience, especially for those who may be less comfortable with command-line interfaces. GitHub Desktop is available for both Windows and macOS, and it allows users to interact with Git and GitHub repositories through a visual interface.
 
 Key features of GitHub Desktop include:
