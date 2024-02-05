@@ -7,28 +7,6 @@ tags:
 [Obsidian](https://obsidian.md/download)
 [GitHub Desktop](https://desktop.github.com)
 [GIT SCM CLI](https://git-scm.com/downloads)
-# Instructions
-1. Download and Install [Obsidian](https://obsidian.md/download)
-
-	1. Make a new Vault
-	2. Make a new note
-3. Make an account on [GitHub](https://github.com)
-4. Download and Install [GitHub Desktop](https://desktop.github.com)
-	1. Sign in to GitHub
-	2. Authorize GitHub Desktop
-	3. Configure Git (Use default options)
-	4. Add an existing Repository from your hard drive
-		1. Change Local Path to your Obsidian Vault
-		2. Create Repository
-	5. Publish Repository to GitHub (Keep Code public or private)
-	6. On browser check your repositories on GitHub to make sure they've been published
-	7. Stop here if you want to manually push your changes. To automate this continue on.
-5. Download and Install [GIT SCM CLI](https://git-scm.com/downloads)
-	1. Authorize Git Credential Manager
-6. Open Obsidian and Enable Community Plugins
-	1. Search for Git and Install (by Denis Olehov aka Vinzent03)
-	2. Enable the plugin
-	3. Set auto push and pull time
 # What is Obsidian?
 Obsidian.md is a popular note-taking and knowledge management application. It is designed to help users organize and connect their thoughts, ideas, and notes in a flexible and interconnected manner. Obsidian is often referred to as a "second brain" tool due to its focus on building a knowledge graph of interconnected notes.
 
@@ -94,6 +72,10 @@ Key features of Git include:
 Git is commonly used in conjunction with hosting platforms like GitHub, GitLab, and Bitbucket, which provide centralized repositories, collaboration features, and additional tools for project management. The combination of Git and these hosting platforms has become a standard practice in modern software development.
 
 # What is GitHub
+
+Useful Links!
+	[GitHub Documentation](https://docs.github.com/en/get-started/quickstart/hello-world)
+
 GitHub is a web-based platform that provides hosting for software development and version control using Git. It offers a range of collaborative features for teams and individuals working on software projects. GitHub is widely used for open-source development but is also utilized by private teams for proprietary software projects. Here are some key aspects of GitHub:
 
 1. **Version Control:**
@@ -158,3 +140,25 @@ Download: [GIT SCM CLI](https://git-scm.com/downloads)
 When people mention "Git SCM," they are typically referring to the broader concept of source code management with Git, including the tools, commands, and practices associated with using Git for version control. The official website for the Git version control system, where you can find documentation, download the Git software, and access other resources, is often referred to as "Git SCM" or simply "Git."
 
 In practice, when developers or users say they are installing or using "Git SCM," they are likely talking about obtaining the Git software for their system to start using Git for version control. The official website for Git, where you can download the Git software, is "https://git-scm.com/." From this site, you can access documentation, guides, and other materials to help you get started with Git for source code management.
+# Instructions
+1. Download and Install [Obsidian](https://obsidian.md/download)
+
+	1. Make a new Vault
+	2. Make a new note
+3. Make an account on [GitHub](https://github.com)
+4. Download and Install [GitHub Desktop](https://desktop.github.com)
+	1. Sign in to GitHub
+	2. Authorize GitHub Desktop
+	3. Configure Git (Use default options)
+	4. Add an existing Repository from your hard drive
+		1. Change Local Path to your Obsidian Vault
+		2. Create Repository
+	5. Publish Repository to GitHub (Keep Code public or private)
+	6. On browser check your repositories on GitHub to make sure they've been published
+	7. Stop here if you want to manually push your changes. To automate this continue on.
+5. Download and Install [GIT SCM CLI](https://git-scm.com/downloads)
+	1. Authorize Git Credential Manager
+6. Open Obsidian and Enable Community Plugins
+	1. Search for Git and Install (by Denis Olehov aka Vinzent03)
+	2. Enable the plugin
+	3. Set auto push and pull time
