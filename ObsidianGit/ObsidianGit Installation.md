@@ -142,7 +142,6 @@ When people mention "Git SCM," they are typically referring to the broader conce
 In practice, when developers or users say they are installing or using "Git SCM," they are likely talking about obtaining the Git software for their system to start using Git for version control. The official website for Git, where you can download the Git software, is "https://git-scm.com/." From this site, you can access documentation, guides, and other materials to help you get started with Git for source code management.
 # Instructions
 1. Download and Install [Obsidian](https://obsidian.md/download)
-
 	1. Make a new Vault
 	2. Make a new note
 3. Make an account on [GitHub](https://github.com)
